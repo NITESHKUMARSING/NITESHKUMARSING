@@ -13,7 +13,7 @@
 <h3 align="left">📧 Contact Me:</h3>
 <p align="left">
 📩 Email: **niteshsingh62068@gmail.com** <br>
-📞 Mobile: **6206830082**
+<!-- 📞 Mobile: **6206830082** -->
 </p>
 
 ---

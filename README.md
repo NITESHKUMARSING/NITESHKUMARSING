@@ -58,8 +58,9 @@
 
 <h3 align="left">🚀 Projects:</h3>
 
--  **TezKart**
-  *TezKart is a scalable eCommerce web application developed using React, Node.js, Express, and MongoDB, 
+-  **TezKart** 
+
+  TezKart is a scalable eCommerce web application developed using React, Node.js, Express, and MongoDB, 
   supporting product management, user authentication, and admin controls.
   
 - **Real Time Chat App**

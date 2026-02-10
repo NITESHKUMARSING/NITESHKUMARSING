@@ -1,4 +1,3 @@
-![logo](https://github.com/NITESHKUMARSING/NITESHKUMARSING/blob/main/ffff.png)
 <h1 align="center">Hi 👋, I'm Nitesh Kumar Singh</h1>
 <h3 align="center">A passionate MERN Stack Web Developer from India</h3>
 

@@ -11,7 +11,9 @@
 
 <h3 align="left">📧 Contact Me:</h3>
 <p align="left">
-📩 Email: **niteshsingh62068@gmail.com** <br>
+ 
+📩 Email: **niteshsingh62068@gmail.com**  
+ <br>
 <!-- 📞 Mobile: **6206830082** -->
 </p>
 
@@ -57,7 +59,7 @@
 <h3 align="left">🚀 Projects:</h3>
 
 -  **TezKart**
-TezKart is a scalable eCommerce web application developed using React, Node.js, Express, and MongoDB, 
+  *TezKart is a scalable eCommerce web application developed using React, Node.js, Express, and MongoDB, 
   supporting product management, user authentication, and admin controls.
   
 - **Real Time Chat App**
